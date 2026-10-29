@@ -60,4 +60,4 @@ llama-quantize --imatrix imatrix.dat qwen2.5-1.5b-instruct-fp16.gguf q3_k_m-imat
 
 - [ ] 기록 담당: `python scripts/plot_pareto.py 3`
 - [ ] 전원: 해석 한 문단 → `assignments/{이름}/week3/`
-- [ ] **세션장: 4090 서버 환경 구축 시작** (`week4/server_setup.sh`). 서버를 못 쓰면 이 시점에 Colab 전환 결정
+- [ ] 세션장: `week4/week4_colab.ipynb` 리허설 (Colab, T4)
